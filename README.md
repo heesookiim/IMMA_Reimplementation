@@ -63,8 +63,8 @@ IMMA provides a **model-level defense** by modifying the internal parameters of 
 ## How to Run 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/heesookiim/ECE570.git
-   cd ECE570
+   git clone https://github.com/heesookiim/IMMA_Reimplementation.git
+   cd IMMA_Reimplementation
 
 2. Run all cells in Reimplementation.ipynb
 
